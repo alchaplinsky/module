@@ -1,5 +1,5 @@
 {
-  "name": "<Module Name>",
+  "name": "ModuleName",
   "version": "<Module Version>",
   "description": "<Module Description>",
   "main": "dist/index.js",
@@ -12,5 +12,9 @@
     "url": "<Repository>"
   },
   "author": "<Author>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  }
 }
