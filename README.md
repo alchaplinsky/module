@@ -15,7 +15,7 @@
 ```
 $ git clone git@github.com:alchaplinsky/module.git
 $ git remote rm origin
-$ git remote add origin [YOU REPO]
+$ git remote add origin [YOUR_REPO]
 ```
 
 #### Build code 
